@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* Custom Stuff Here */
+/*!
+ * Custom styles for Documate workflows
+ */
+
+@media (min-width: 992px)
+.tab-pane {
+    flex: 0 0 85%;
+    max-width: 85%;
+}
+
+@media (min-width: 768px)
+.container {
+    max-width: 920px;
+}
